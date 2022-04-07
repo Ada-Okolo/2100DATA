@@ -1,0 +1,163 @@
+[
+ {
+   "Ward": 1,
+   "KM2": 25.5,
+   "Pool": 73,
+   "Construction": 159,
+   "Demolition": 1
+ },
+ {
+   "Ward": 2,
+   "KM2": 31.1,
+   "Pool": 71,
+   "Construction": 567,
+   "Demolition": 7
+ },
+ {
+   "Ward": 3,
+   "KM2": 26.1,
+   "Pool": 84,
+   "Construction": 700,
+   "Demolition": 3
+ },
+ {
+   "Ward": 4,
+   "KM2": 24.2,
+   "Pool": 37,
+   "Construction": 440,
+   "Demolition": 0
+ },
+ {
+   "Ward": 5,
+   "KM2": 763,
+   "Pool": 50,
+   "Construction": 335,
+   "Demolition": 21
+ },
+ {
+   "Ward": 6,
+   "KM2": 16.3,
+   "Pool": 124,
+   "Construction": 1045,
+   "Demolition": 16
+ },
+ {
+   "Ward": 7,
+   "KM2": 64.2,
+   "Pool": 24,
+   "Construction": 241,
+   "Demolition": 18
+ },
+ {
+   "Ward": 8,
+   "KM2": 46.2,
+   "Pool": 44,
+   "Construction": 346,
+   "Demolition": 16
+ },
+ {
+   "Ward": 9,
+   "KM2": 47.5,
+   "Pool": 22,
+   "Construction": 222,
+   "Demolition": 10
+ },
+ {
+   "Ward": 10,
+   "KM2": 67.2,
+   "Pool": 14,
+   "Construction": 197,
+   "Demolition": 3
+ },
+ {
+   "Ward": 11,
+   "KM2": 41.2,
+   "Pool": 21,
+   "Construction": 154,
+   "Demolition": 4
+ },
+ {
+   "Ward": 12,
+   "KM2": 7.9,
+   "Pool": 4,
+   "Construction": 393,
+   "Demolition": 37
+ },
+ {
+   "Ward": 13,
+   "KM2": 19.8,
+   "Pool": 17,
+   "Construction": 419,
+   "Demolition": 18
+ },
+ {
+   "Ward": 14,
+   "KM2": 6.5,
+   "Pool": 3,
+   "Construction": 363,
+   "Demolition": 18
+ },
+ {
+   "Ward": 15,
+   "KM2": 15.1,
+   "Pool": 18,
+   "Construction": 497,
+   "Demolition": 88
+ },
+ {
+   "Ward": 16,
+   "KM2": 23.3,
+   "Pool": 28,
+   "Construction": 263,
+   "Demolition": 21
+ },
+ {
+   "Ward": 17,
+   "KM2": 9.9,
+   "Pool": 14,
+   "Construction": 309,
+   "Demolition": 25
+ },
+ {
+   "Ward": 18,
+   "KM2": 20.3,
+   "Pool": 29,
+   "Construction": 316,
+   "Demolition": 18
+ },
+ {
+   "Ward": 19,
+   "KM2": 383,
+   "Pool": 167,
+   "Construction": 866,
+   "Demolition": 14
+ },
+ {
+   "Ward": 20,
+   "KM2": 459,
+   "Pool": 85,
+   "Construction": 686,
+   "Demolition": 13
+ },
+ {
+   "Ward": 21,
+   "KM2": 744,
+   "Pool": 111,
+   "Construction": 1194,
+   "Demolition": 11
+ },
+ {
+   "Ward": 22,
+   "KM2": 37.6,
+   "Pool": 106,
+   "Construction": 988,
+   "Demolition": 6
+ },
+ {
+   "Ward": 23,
+   "KM2": 16.5,
+   "Pool": 60,
+   "Construction": 262,
+   "Demolition": 1
+ }
+]
